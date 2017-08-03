@@ -1,7 +1,6 @@
- C sÅrÅcÅsÅ birimi: OS
- Birim Seri Numarasç: 7CFC-DF38
+This HelloWorld Java app create for understanding the "Jenkins integration with GIT (SCM)"
 
- C:\Users\Metasis\Desktop\JavaProject dizini
+
 
 03.08.2017  14:56    <DIR>          .
 03.08.2017  14:56    <DIR>          ..
@@ -9,4 +8,4 @@
 03.08.2017  12:30               158 Hello.java
 03.08.2017  14:56                 0 readme.txt
                3 Dosya              834 bayt
-               2 Dizin   677.180.350.464 bayt boü
+               2 Dizin   677.180.350.464 bayt bo≈∏
